@@ -1,4 +1,4 @@
 first_app
 =========
 
-First App
+This is our first app
